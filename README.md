@@ -3,6 +3,7 @@
 ## Description
 
 Our project aims at finding out how the changes of industry, infrastructure and mobility impacted the demographic developments in Aarhus county from 1801 to 1860. This we have studied by taking three different censuses from 1801, 1834 and 1860 from Aarhus county and used data processing and statistical analysis through OpenRefine and Rstudio.
+
 Here we found a beginning current of urbanisation and industrialisation, with people moving closer towards the city centre and small steps towards industrial production.
 
 ## Authors
