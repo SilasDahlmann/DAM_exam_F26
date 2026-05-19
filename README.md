@@ -9,13 +9,9 @@ Here we found a beginning current of urbanisation and industrialisation, with pe
 
 Contributors names and contact info
 
-Marie Schmidt
+Marie Schmidt - au742865@uni.au.dk
 
-au742865@uni.au.dk
-
-Silas Dahlmann
-
-au800063@uni.au.dk
+Silas Dahlmann - au800063@uni.au.dk
 
 
 ## License
