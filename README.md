@@ -17,4 +17,5 @@ Silas Dahlmann - au800063@uni.au.dk
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE.md file for details
+All the work is published under a license Attribution 4.0 International by Creative Commons.
+To learn more about the licence, follow the canonical URL: https://creativecommons.org/licenses/by/4.0/
